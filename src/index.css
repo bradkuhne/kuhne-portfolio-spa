@@ -312,7 +312,7 @@ ul {
   list-style: none;
 }
 
-ul li::before {
+ul.b li::before {
   content: "\2713";  
   color: var(--tertiary); 
   font-weight: bold; 

@@ -1,9 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
-import About from './components/About';
 import Nav from './components/Nav';
-import Portfolio from './components/Portfolio';
-import Section from './components/Section'
+import Section from './components/Section';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -29,6 +28,7 @@ function App() {
       <main>
             <Section currentCategory = {currentCategory }> </Section>
       </main>
+      <Footer />
     </div>
   );
 }
