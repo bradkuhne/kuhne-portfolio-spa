@@ -1,7 +1,53 @@
-# Getting Started with Create React App
+# Kuhne Portfolio Single Page Application
+React SPA that provides resume and portfolio information for Brad Kuhne
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed Appliction Link: https://bradkuhne.github.io/kuhne-portfolio-spa/
+GitHub Repo Link: https://github.com/bradkuhne/kuhne-portfolio-spa
 
+
+
+## Description
+  
+ Kuhne Portfolio SPA is a React single page application that provides the consumer with information about Brad Kuhne and displays Brad's portfolio.
+
+   
+## License
+  
+ [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+  
+ The Unlicense is a template for disclaiming copyright monopoly interest in software you've written; in other words, it is a template for dedicating your software to the public domain. It combines a copyright waiver patterned after the very successful public domain SQLite project with the no-warranty statement from the widely-used MIT/X11 license.
+  
+## Table of Contents
+  
+* [Installation](#Installation)
+  
+* [Usage](#Usage)
+  
+* [Contributions](#Contributions)
+  
+* [Tests](#Tests)
+  
+* [Questions](#Questions)
+  
+## Installation
+  
+ To run the Kuhne-Portfolio-SPA application just nagigate to https://github.com/bradkuhne/kuhne-portfolio-spa .
+  
+## Usage
+  
+ The Kuhne-Portfolio-SPA application is for anyone who wants to learn about Brad Kuhne.
+  
+## Contributions
+  
+ This project was solely developed by Brad Kuhne.
+  
+## Test Instructions
+  
+ Compare results to expected results.
+  
+## Questions
+  
+ https://github.com/bradkuhne  Email: bjkuhne@aol.com
 ## Available Scripts
 
 In the project directory, you can run:
