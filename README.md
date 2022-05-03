@@ -1,7 +1,7 @@
 # Kuhne Portfolio Single Page Application
 React SPA that provides resume and portfolio information for Brad Kuhne
 
-Deployed Appliction Link: https://bradkuhne.github.io/kuhne-portfolio-spa/
+Deployed Appliction Link: https://kuhne-portfolio-spa.herokuapp.com/
 GitHub Repo Link: https://github.com/bradkuhne/kuhne-portfolio-spa
 
 
